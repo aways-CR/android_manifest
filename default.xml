@@ -42,6 +42,7 @@
   <project path="device/samsung/i9300" name="SuperNexus/android_device_samsung_i9300" remote="github" revision="jellybean" />
   <project path="device/samsung/n7000" name="SuperNexus/android_device_samsung_n7000" remote="github" revision="jellybean" />
   <project path="device/samsung/n7100" name="SuperNexus/android_device_samsung_n7100" remote="github" revision="jellybean" />
+  <project path="device/samsung/omap4-common" name="SuperNexus/android_device_samsung_omap4-common" remote="github" revision="jellybean" />
   <project path="device/samsung/smdk4412-common" name="SuperNexus/android_device_samsung_smdk4412-common" remote="github" revision="jellybean" />
   <project path="device/samsung/t0lte" name="SuperNexus/android_device_samsung_t0lte" remote="github" revision="jellybean" />
   <project path="device/ti/panda" name="device/ti/panda" groups="device" revision="refs/tags/android-4.2.1_r1.2" />
