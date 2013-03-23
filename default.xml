@@ -371,6 +371,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" />
 
   <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="github" revision="cm-10.1" />
+  <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="github" revision="cm-10.1" />
   <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="github" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="CyanogenMod/lge-kernel-mako" remote="github" revision="jellybean" />
   <project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" remote="github" revision="cm-10.1" />
