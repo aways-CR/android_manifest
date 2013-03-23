@@ -37,6 +37,9 @@
   <project path="device/lge/mako" name="SuperNexus/android_device_lge_mako" remote="github" revision="jellybean" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/aries-common" name="SuperNexus/android_device_samsung_aries-common" remote="github" revision="jellybean" />
+  <project path="device/samsung/d2-common" name="SuperNexus/android_device_samsung_d2-common" remote="github" revision="jellybean" />
+  <project path="device/samsung/d2att" name="SuperNexus/android_device_samsung_d2att" remote="github" revision="jellybean" />
+  <project path="device/samsung/d2tmo" name="SuperNexus/android_device_samsung_d2tmo" remote="github" revision="jellybean" />
   <project path="device/samsung/galaxys2-common" name="SuperNexus/android_device_samsung_galaxys2-common" remote="github" revision="jellybean" />
   <project path="device/samsung/galaxysmtd" name="SuperNexus/android_device_samsung_galaxysmtd" remote="github" revision="jellybean" />
   <project path="device/samsung/i777" name="SuperNexus/android_device_samsung_i777" remote="github" revision="jellybean" />
@@ -44,9 +47,11 @@
   <project path="device/samsung/i9100g" name="SuperNexus/android_device_samsung_i9100g" remote="github" revision="jellybean" />
   <project path="device/samsung/i9300" name="SuperNexus/android_device_samsung_i9300" remote="github" revision="jellybean" />
   <project path="device/samsung/i9305" name="SuperNexus/android_device_samsung_i9305" remote="github" revision="jellybean" />
+  <project path="device/samsung/msm8960-common" name="SuperNexus/android_device_samsung_msm8960-common" remote="github" revision="jellybean" />
   <project path="device/samsung/n7000" name="SuperNexus/android_device_samsung_n7000" remote="github" revision="jellybean" />
   <project path="device/samsung/n7100" name="SuperNexus/android_device_samsung_n7100" remote="github" revision="jellybean" />
   <project path="device/samsung/omap4-common" name="SuperNexus/android_device_samsung_omap4-common" remote="github" revision="jellybean" />
+  <project path="device/samsung/qcom-common" name="SuperNexus/android_device_samsung_qcom-common" remote="github" revision="jellybean" />
   <project path="device/samsung/smdk4412-common" name="SuperNexus/android_device_samsung_smdk4412-common" remote="github" revision="jellybean" />
   <project path="device/samsung/t0lte" name="SuperNexus/android_device_samsung_t0lte" remote="github" revision="jellybean" />
   <project path="device/ti/panda" name="device/ti/panda" groups="device" />
