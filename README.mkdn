@@ -1,6 +1,5 @@
 SuperNexus Manifest
 ===================
-===================
 
 Getting Started
 ---------------
@@ -9,7 +8,7 @@ Please see the [Android source page](http://source.android.com/source/index.html
 
 To initialize your local repository using my trees, use the following command:
 
-    repo init -u https://github.com/SuperNexus/android_manifest.git -b jellybean
+    repo init -u https://github.com/SuperNexus/android_manifest.git -b jellybean-mr2
 
 Then to sync up:
 
@@ -27,4 +26,4 @@ Once you've read that, you can build with
     
 Special Thanks
 --------------
-Huge shout out to [CyanogenMod Team](http://www.cyanogenmod.org/), [AOKP Team](http://aokp.co/) and [Teamhacksung](http://teamhacksung.org/), without them this ROM was not possible.
+Huge shout out to [CyanogenMod Team](http://www.cyanogenmod.org/), without them this ROM was not possible.
