@@ -414,6 +414,7 @@
 
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" remote="github" revision="cm-10.2" />
   <project path="vendor/supernexus" name="SuperNexus/android_vendor_supernexus" remote="github" revision="jellybean-mr2" />
+  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-10.2" />
 
   <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="github" revision="cm-10.2" />
   <project path="kernel/samsung/exynos5410" name="intervigilium/android_kernel_samsung_exynos5410" remote="github" revision="cm-10.2" />
